@@ -1,0 +1,4 @@
+#Wed Aug 02 15:31:16 ICT 2023
+base.0=/Users/edriw-ty/Downloads/app covid/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

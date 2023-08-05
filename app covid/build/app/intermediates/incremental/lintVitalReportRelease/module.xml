@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/edriw-ty/Downloads/app covid/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/edriw-ty/Downloads/app covid/build/app"
+    bootClassPath="/Users/edriw-ty/Library/Android/sdk/platforms/android-33/android.jar:/Users/edriw-ty/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
